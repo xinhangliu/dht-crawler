@@ -1,5 +1,4 @@
-.DS_Store
-Pipfile.lock
 .idea
 __pycache__
 *.pyc
+*.egg-info

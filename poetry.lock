@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information."
+name = "pysocks"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
+version = "1.7.0"
+
+[metadata]
+content-hash = "3aaef91960e6c191ccb6cdc50f6a71fbbeb499ea99cd72210202a640d7553577"
+python-versions = ">=3.6"
+
+[metadata.hashes]
+pysocks = ["15d38914b60dbcb231d276f64882a20435c049450160e953ca7d313d1405f16f", "32238918ac0f19e9fd870a8692ac9bd14f5e8752b3c62624cda5851424642210", "d9031ea45fdfacbe59a99273e9f0448ddb33c1580fe3831c1b09557c5718977c"]
